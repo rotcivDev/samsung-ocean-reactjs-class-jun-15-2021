@@ -1,5 +1,8 @@
 .items-list {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: flex-start;
   flex-wrap: wrap;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  backface-visibility: hidden;
 }

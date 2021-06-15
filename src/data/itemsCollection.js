@@ -27,4 +27,8 @@ export const itemsCollection = [
     name: "Mestre dos Magos",
     img: "https://3.bp.blogspot.com/-xbVHPD5qIcc/UlVo3kX0gBI/AAAAAAAAA6k/dfBVjANAnTE/s1600/25+-+Mestre+dos+Magos.jpg",
   },
+  {
+    name: "Vingador",
+    img: "https://i.pinimg.com/originals/68/b4/0e/68b40e71ecfc6fac48b9ab4c99b761c6.jpg",
+  },
 ];
