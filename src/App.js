@@ -1,10 +1,8 @@
+import React from "react";
+import Listitems from "./components/ListItems/Listitems.component";
 
 function App() {
-  return (
-    <div>
-      <h1>Starting class.</h1>
-    </div>
-  );
+  return <Listitems />;
 }
 
 export default App;
